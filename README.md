@@ -19,13 +19,16 @@ This is a simple GitHub Profile Analyzer application that takes a GitHub usernam
 1. Download the zip file.
 2. Navigate to the project directory.
 4. Run the following commands:
-
-To install all the dependencies and the node modules
-```bash
-npm i
-```
-To run the program and launch the website.
-```bash
-npm run dev
-```
+   
+    To install all the dependencies and the node modules
+    ```bash
+    npm i
+    ```
+    To run the program and launch the website.
+    ```bash
+    npm run dev
+    ```
 The website is deployed here: https://git-profile-analyzer0.netlify.app
+The github link for the following project: https://github.com/danixDe/Github_profile_analyzer
+
+
