@@ -29,6 +29,7 @@ This is a simple GitHub Profile Analyzer application that takes a GitHub usernam
     npm run dev
     ```
 The website is deployed here: https://git-profile-analyzer0.netlify.app
+
 The github link for the following project: https://github.com/danixDe/Github_profile_analyzer
 
 
